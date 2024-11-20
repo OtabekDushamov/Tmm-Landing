@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['*']
 ALLOWED_HOSTS = ['45.80.149.113', 'tmmcompany.uz', 'www.tmmcompany.uz']
 
-CSRF_TRUSTED_ORIGINS = ['http://45.80.149.113', 'https://ttmcompany.uz']
+CSRF_TRUSTED_ORIGINS = ['http://45.80.149.113', 'https://tmmcompany.uz']
 
 
 # Application definition
